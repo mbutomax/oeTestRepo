@@ -15,3 +15,9 @@ Prova per mettere una riga indentata tipo codice:
     </script>
 
 ## titolo ???
+
+## Usage
+
+Create session cookie:
+
+    $.cookie('the_cookie', 'the_value');
