@@ -8,3 +8,8 @@ modifico il file
 
 
 Altra modifica al file
+
+Prova per mettere una riga indentata tipo codice:
+  <script>
+    mio script
+  </script>
